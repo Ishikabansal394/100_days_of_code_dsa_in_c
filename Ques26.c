@@ -1,0 +1,1 @@
+#same as Ques25.c
